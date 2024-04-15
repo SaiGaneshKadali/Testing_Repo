@@ -1,6 +1,6 @@
 #factorial of given number
 #fact
-#change
+#changes
 def factorial(n):
     if n == 0:
         return 1
